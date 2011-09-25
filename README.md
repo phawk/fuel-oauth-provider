@@ -12,6 +12,7 @@ Also there is a basic users system in place for testing login and access, this i
 
 ## To do's
 * Create the `block/'.$consumer->id` method, to blacklist consumers against a particular users request token.
+* Implement a RESTful controller and format output methods for easier API development.
 
 ## Basic usage
 Create your database tables for:
